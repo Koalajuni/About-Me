@@ -21,22 +21,5 @@ I am driven by a desire to be a catalyst for positive change, leveraging technol
 
 🤝 Excited about contributing to innovative projects and collaborating with like-minded professionals.
 
-**👉 Why Me:
-**
-💪 Adaptability: Successfully navigated challenges and pivoted during the startup journey, showcasing resilience and problem-solving skills.
-
-🌟 Technical Acumen: From participating in hackathons to launching mobile applications, I've proven my ability to turn innovative ideas into impactful technological solutions.
-
-🚀 Passion for Innovation: Committed to challenging the status quo and contributing to the transformative potential of artificial intelligence.
-
-**📈 Let's Connect:
-**
-Open to exciting opportunities to collaborate on innovative projects.
-Eager to bring my determination, sense of ownership, and technical expertise to your team.
-
-**📧 Contact:**
-LinkedIn | GitHub | Email: hyounjunl@gmail.com 
-Thank you for considering my application! 🚀
-
 Sincerely,
 Hyoun Jun Lee
