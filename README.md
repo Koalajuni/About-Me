@@ -6,7 +6,7 @@ Hey there! 👋 I'm Hyoun Jun Lee, a dynamic software engineer with a fusion of 
 
 Business Administration: Equipped with a solid foundation in data interpretation and analysis, I've honed my analytical skills to address user needs through technology.
 Integrated Major in AI: My journey into the realm of artificial intelligence was sparked by a desire to harmonize my fascination with business and technology.
-
+ 
 **💡 Innovation & Problem-Solving:**
 
 Generative AI Hackathon: Participated in Primer's inaugural event, developing a calendar-based event recommendation program using Open AI’s LLM model. Demonstrated a solution-oriented mindset and technical acumen.
