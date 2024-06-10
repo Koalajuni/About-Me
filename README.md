@@ -23,3 +23,22 @@ I am driven by a desire to be a catalyst for positive change, leveraging technol
 
 Sincerely,
 Hyoun Jun Lee
+
+
+
+
+# Papers To Read (읽어야할 논문) 
+
+### Transformers
+- https://arxiv.org/pdf/1409.0473 (Neural Translation) - 2014
+- https://arxiv.org/pdf/1706.03762 (Attention is all you need) - 2017
+
+### Computer Vision 
+- https://arxiv.org/pdf/1506.02640 (Yolo) - 2015
+
+### Benchmark 
+- https://arxiv.org/pdf/2310.06770 (SWE Bench) auto coder 만들기 위해
+
+
+# Papers I've Read and Analyzed (읽고 분석한 논문 +  url) 
+- 
