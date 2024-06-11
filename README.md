@@ -29,11 +29,14 @@ Hyoun Jun Lee
 
 # Papers To Read (읽어야할 논문) 
 
-### Transformers
+### Transformers (Deep Learning)
 - https://arxiv.org/pdf/1409.0473 (Neural Translation) - 2014
 - https://arxiv.org/pdf/1706.03762 (Attention is all you need) - 2017
 - Google: https://arxiv.org/pdf/1810.04805 (BERT)
 - OpenAI: https://arxiv.org/pdf/2005.14165 (ChatGPT)
+
+### Generative Adversarial Nets
+- https://arxiv.org/pdf/1406.2661 (GAN) - 2014
 
 ### Computer Vision 
 - https://arxiv.org/pdf/1506.02640 (Yolo) - 2015
