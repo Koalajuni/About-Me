@@ -38,6 +38,10 @@ Hyoun Jun Lee
 ### Generative Adversarial Nets
 - https://arxiv.org/pdf/1406.2661 (GAN) - 2014
 
+### Diffusion
+- https://arxiv.org/abs/2106.09685 (LORA) - 2021
+- https://arxiv.org/abs/2405.05252 (Diffusion + Attention) - 2024
+
 ### Computer Vision 
 - https://arxiv.org/pdf/1506.02640 (Yolo) - 2015
 
