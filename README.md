@@ -50,4 +50,7 @@ Hyoun Jun Lee
 
 ------------------------------------------------------------------------------------------------
 # Papers I've Read and Analyzed (읽고 분석한 논문 +  url) 
+아래 논문들은 Harvard Computer Science 교수가 작성한 How to read a Research Paper를 참고해 요약한 논문들이다. 
+https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf
+
 - 
