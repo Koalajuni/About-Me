@@ -30,8 +30,8 @@ Hyoun Jun Lee
 # Papers To Read (읽어야할 논문) 
 
 ### Transformers (Deep Learning)
-- https://arxiv.org/pdf/1409.0473 (Neural Translation) - 2014
-- https://arxiv.org/pdf/1706.03762 (Attention is all you need) - 2017
+- https://arxiv.org/pdf/1409.0473 (Neural Translation) - 2014 (Done)
+- https://arxiv.org/pdf/1706.03762 (Attention is all you need) - 2017 (Done) 
 - Google: https://arxiv.org/pdf/1810.04805 (BERT)
 - OpenAI: https://arxiv.org/pdf/2005.14165 (ChatGPT)
 
@@ -53,4 +53,6 @@ Hyoun Jun Lee
 아래 논문들은 Harvard Computer Science 교수가 작성한 How to read a Research Paper를 참고해 요약한 논문들이다. 
 https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf
 
-- 
+### Transformers (Deep Learning) 
+- https://docs.google.com/document/d/1mespiXkhgEbwd7S-g1Fht41-cTWHk_6r29Je6tPIzVU/edit?usp=sharing (Neural Translation) - 2014
+- https://docs.google.com/document/d/1ern24AZZr-bBPWHGdTTg2ATjmJ-tnVLQtzCKOLUyC0I/edit?usp=sharing (Attention is all you need) - 2017
