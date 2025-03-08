@@ -1,11 +1,11 @@
 # About-Me
 
-Hey there! 👋 I'm Hyoun Jun Lee, a dynamic software engineer with a fusion of Business Administration expertise and an Integrated Major in Artificial Intelligence. I'm on a mission to leverage my unique background and hands-on experience in the world of computer science and am eager to contribute to the world's cutting-edge technological ecosystem.
+Hey there! 👋 I'm Hyoun Jun Lee, a AI Research and software engineer with a fusion of Business Administration expertise and Artificial Intelligence. I'm on a mission to leverage my unique background and hands-on experience in the world of computer science and am eager to contribute to the world's cutting-edge technological ecosystem.
 
 **🎓 Academic Background:**
 
 Business Administration: Equipped with a solid foundation in data interpretation and analysis, I've honed my analytical skills to address user needs through technology.
-Integrated Major in AI: My journey into the realm of artificial intelligence was sparked by a desire to harmonize my fascination with business and technology.
+Computer Science & AI: My journey into the realm of artificial intelligence was sparked by a desire to harmonize my fascination with business and technology.
  
 **💡 Innovation & Problem-Solving:**
 
