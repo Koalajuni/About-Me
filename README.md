@@ -29,6 +29,11 @@ Hyoun Jun Lee
 
 # Papers To Read (읽어야할 논문) 
 
+### LLM Architecture 
+- https://arxiv.org/pdf/2001.08361 (Scaling Laws for Neural Language Models) - 2020 
+- https://arxiv.org/pdf/2501.00663 (Titan Learning to Memorize at Test Time) - 2024
+
+
 ### Transformers (Deep Learning)
 - https://arxiv.org/pdf/1409.0473 (Neural Translation) - 2014 (Done)
 - https://arxiv.org/pdf/1706.03762 (Attention is all you need) - 2017 (Done) 
