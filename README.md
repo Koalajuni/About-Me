@@ -29,9 +29,14 @@ Hyoun Jun Lee
 
 # Papers To Read (읽어야할 논문) 
 
+### Agentic AI
+- https://arxiv.org/pdf/2402.01030 (Executable Code Actions Elicit Better LLM Agents) - 2024 
+
 ### LLM Architecture 
 - https://arxiv.org/pdf/2001.08361 (Scaling Laws for Neural Language Models) - 2020 
-- https://arxiv.org/pdf/2501.00663 (Titan Learning to Memorize at Test Time) - 2024
+- https://arxiv.org/pdf/2501.00663 (Titan Learning to Memorize at Test Time) - 2024 (Done)
+- https://arxiv.org/abs/2408.02193 (CodeACT: Code Adaptive Compute-efficient Tuning Framework for Code LLMs) - 2024 (Done)
+- https://arxiv.org/abs/2501.12948 (DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning) - 2025 (Done)
 
 
 ### Transformers (Deep Learning)
